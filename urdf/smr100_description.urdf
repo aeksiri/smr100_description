@@ -303,7 +303,7 @@
   </link>
   <joint
     name="swing_arm_right_joint"
-    type="continuous">
+    type="revolute">
     <origin
       xyz="0.18079 -0.2075 0.139"
       rpy="0 -0.02739 0" />
